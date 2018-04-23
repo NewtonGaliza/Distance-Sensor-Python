@@ -48,11 +48,4 @@ void loop() {
     digitalWrite(ledGreen, HIGH); // Desliga a porta 13 se o valor recebido for 2
   }
   
-    
-  
-  
-  
-  
-  
-  
 }
